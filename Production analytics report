@@ -1,0 +1,52 @@
+Executive Summary
+
+This report summarizes production performance across PetroTech Energy's 120 well portfolio spanning the
+Alpha, Bravo, and Charlie fields. The portfolio produced 49,952 bbl/day of oil and 49,793 Mscf/day of gas at
+an average water cut of 30.6% and average reservoir pressure of 2,402 psi. Of the 120 wells, 114 are active
+and 6 are shut-in, while 20 wells (16.7% of the portfolio) meet the intervention criteria of water cut above 50%
+or downtime exceeding 25 hours. Electrical Submersible Pumps (ESP) are the clear top performer, averaging
+559 bbl/day per well versus 396 bbl/day for Gas Lift and 224 bbl/day for Rod Pump a pattern confirmed by
+the fact that all ten highest-producing wells run ESP, while eight of the ten lowest producing wells run Rod
+Pump.
+
+Production Overview
+
+Alpha field leads the portfolio with 19,121 bbl/day of oil across 44 wells, supported by the highest average
+reservoir pressure (2,472 psi) and the lowest average water cut (28.7%) of the three fields. Charlie field ranks
+second at 15,612 bbl/day (39 wells), while Bravo field contributes the least oil at 15,219 bbl/day despite
+operating 37 wells and carrying the highest average water cut of any field (33.7%). The gap between Alpha
+and Bravo is consistent with a reservoir quality effect rather than a well count effect, since Alpha and Charlie
+have a similar well count but a materially different water cut.
+
+Operational Issues
+
+● Water cut: Portfolio average is 30.6%, but Bravo field runs highest at 33.7%, and 20 wells individually
+exceed the 50% threshold, indicating advancing water breakthrough in specific zones rather than a
+field wide issue.
+● Pressure decline: Underperforming wells cluster in the 800–1,400 psi range, well below the 2,402 psi
+portfolio average, suggesting localized reservoir depletion or inadequate artificial lift support.
+● Downtime: Average downtime is 17.3 hours per well, but several wells  concentrated on Rod Pump
+completions report downtime as high as 90 hours, pointing to reliability issues with that lift method.
+● Pump performance gap: Rod Pump wells combine the lowest average oil rate (224 bbl/day) with the
+highest average water cut (33.6%) of any pump type, making them the weakest-performing asset class in
+the portfolio.
+
+Recommendations
+
+1 Prioritize workover and intervention on the 20 flagged wells (water cut >50% or downtime >25 hrs),
+beginning with Charlie field, where most low-producing wells cluster.
+2 Evaluate converting underperforming Rod Pump wells to ESP or Gas Lift where reservoir pressure can
+support the change, given the 2.5x production differential between ESP and Rod Pump wells.
+3 Investigate water breakthrough in Bravo field through conformance treatment or selective water shutoff,
+targeting its above average 33.7% water cut.
+4 Implement predictive maintenance scheduling for Rod Pump wells specifically, to reduce the portfolio's
+17.3 hour average downtime and prevent runs to 90+ hours.
+5 Direct near term development capital toward Alpha field style completions, which combine the highest
+reservoir pressure and lowest water cut in the portfolio.
+
+Expected Benefits
+
+Executing these recommendations is expected to increase portfolio oil production by reducing losses from the
+20 flagged wells, lower average downtime below the current 17.3 hour baseline, reduce operating cost per
+barrel by addressing Rod Pump reliability issues, and improve overall field efficiency by aligning artificial lift
+selection with reservoir pressure conditions across Alpha, Bravo, and Charlie fields.
